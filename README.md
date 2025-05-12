@@ -73,6 +73,20 @@ summary
 |──logs
 |         
 |──weights
+
+workspace
+├── pretrain_weights
+│   ├── vit_base_patch16_224_in21k.pth
+│   ├── vit_base_patch32_224_in21k
+│   ├── vit_large_patch16_224_in21k.pth
+│   └── vit_large_patch32_224_in21k.pth
+└── summary
+    ├── logs
+    └── weights
+
+
+
+
 ## Reference
 
 Appreciate the work from the following repositories:
