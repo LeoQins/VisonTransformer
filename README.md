@@ -18,7 +18,7 @@ git clone https://github.com/LeoQins/VisonTransformer
 2. Install torch_Vision_Transformer from source.
 
 ```shell
-cd torch_Vision_Transformer
+cd VisionTransformer
 pip install -r requirements.txt
 ```
 
