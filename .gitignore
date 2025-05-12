@@ -1,0 +1,16 @@
+# 忽略 Python 生成的编译文件
+__pycache__/
+*.pyc
+
+# 忽略 IDE 生成的目录文件
+.vscode/
+.idea/
+
+# 忽略模型权重或日志文件（根据你的需要）
+/summary/
+
+/pretrain_weights/
+# 忽略与训练权重（根据你的需要）
+
+
+
