@@ -65,6 +65,14 @@ You need to store your data set like this:
     └── tulips
 ```
 
+## other folders
+pretrain_weights
+|──vit_base_patch16_224_in21k.pth
+|──...
+summary
+|──logs
+|         
+|──weights
 ## Reference
 
 Appreciate the work from the following repositories:
